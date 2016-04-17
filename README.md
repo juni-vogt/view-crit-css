@@ -1,4 +1,4 @@
-# ![Icon](//raw.githubusercontent.com/matthias-vogt/view-crit-css/master/icons/128.png) View Crit CSS
+# ![Icon](https://raw.githubusercontent.com/matthias-vogt/view-crit-css/master/icons/48.png) View Crit CSS
 Chrome extension to make external stylesheets invisible.
 
 Allows you to display only the critical, inline CSS.
